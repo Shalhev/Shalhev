@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shalhev</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shalhev</h1>
 <h3 align="center">A passionate frontend developer from Israel.</h3>
 
 <h3 align="left">Connect with me:</h3>

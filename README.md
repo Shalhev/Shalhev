@@ -1,6 +1,6 @@
 <p align="center"><img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="250px"/></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shalhev</h1>
-<h3 align="center">A passionate frontend developer from Israel.</h3>
+<h3 align="center">A passionate Full Stack / Frontend developer from Israel.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
